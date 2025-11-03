@@ -1,12 +1,10 @@
 # Speech-Emotion-Recognition---Sound-Classification
 
-Here’s a description you can use for uploading this project to GitHub and LinkedIn:
-
 Emotion Recognition from Audio Using Deep Learning
 
 This project uses deep learning to recognize emotions from audio files. It processes speech samples, extracts MFCC features, and trains a neural network model to classify emotions like happy, sad, angry, and more.
 
-Key Features:
+#Key Features:
 
 End-to-end workflow for emotion recognition using Python
 
@@ -18,10 +16,10 @@ Predicts emotions on new, unseen audio samples
 
 Easy to adapt for custom datasets and use cases
 
-Technologies Used:
+#Technologies Used:
 Python, Pandas, NumPy, Librosa, Scikit-learn, Keras/TensorFlow
 
-How It Works:
+#How It Works:
 
 Loads labeled audio data
 
